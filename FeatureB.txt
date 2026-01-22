@@ -10,4 +10,10 @@ class FeatureB {
     void save(Object output) {
         // save result
     }
+
+    boolean validate(Object input) {
+        // nicht kompilierfähige Validierungslogik
+        return true;
+    }
+
 }
