@@ -10,8 +10,8 @@ class FeatureA {
         return processedData;
     }
 
-    double transform(Object input) {
-        // pseudo transformation
+    number transform(Object input) {
+        // pseudo Transformation die mit integer und double funktioniert
         return 1.0;
     }
 
