@@ -1,8 +1,8 @@
 class FeatureA {
 
-    Object execute(Object data) {
+    number execute(Object data) {
 
-        Object processedData;
+        number processedData;
 
         // process input data
         processedData = transform(data);
