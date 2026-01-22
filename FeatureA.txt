@@ -10,9 +10,9 @@ class FeatureA {
         return processedData;
     }
 
-    Object transform(Object input) {
+    integer transform(Object input) {
         // pseudo transformation
-        return input;
+        return 1;
     }
 
     String toString() {
