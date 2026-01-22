@@ -2,7 +2,7 @@ class FeatureA {
 
     Object execute(Object data) {
 
-        String processedData;
+        Object processedData;
 
         // process input data
         processedData = transform(data);
