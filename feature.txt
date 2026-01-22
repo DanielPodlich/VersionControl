@@ -1,0 +1,6 @@
+Feature: Neue Suchfunktion
+
+Mit diesem Feature können Benutzer Inhalte schnell über Schlüsselwörter finden. 
+Die Ergebnisse werden nach Relevanz sortiert. 
+Die Entwicklung erfolgt auf einem separaten Feature-Branch, um den main-Branch stabil zu halten. 
+Nach Fertigstellung wird das Feature in main integriert und der Branch gelöscht.
