@@ -14,4 +14,9 @@ class FeatureA {
         // pseudo transformation
         return input;
     }
+
+    String toString() {
+        return "FeatureA verarbeitet Daten";
+    }
+
 }
